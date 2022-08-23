@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iyum
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML for Data Science
-- 💞️ I’m looking to collaborate on Data Science and Analysis
+- 👀 I’m interested in Machine Learning for Data Analysis and Data Science
+- 🌱 I’m currently learning everything!
+- 💞️ I’m looking to collaborate on Data Science and Analysis projects.
 - 📫 How to reach me (https://www.linkedin.com/in/retno-prabaningrum-544424224/)
 
 <!---
