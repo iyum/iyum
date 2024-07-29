@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iyum
+- 👋 Hi, I’m @rprabaningrum
 - 👀 I’m interested in Machine Learning for Data Analysis and Data Science
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on Data Science and Analysis projects.
